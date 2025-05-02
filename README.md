@@ -2,7 +2,7 @@
 This project demonstrates a complete text classification pipeline using Python and popular data science libraries. The goal is to classify SMS messages as spam or ham (not spam) using a multinomial Naive Bayes model and text vectorization.
 
 ### Project Structure
-- main.ipynb — Jupyter notebook containing the entire pipeline: data preprocessing, feature engineering, model training, and evaluation.
+- text mining.ipynb — Jupyter notebook containing the entire pipeline: data preprocessing, feature engineering, model training, and evaluation.
 
 - sms.tsv — Dataset used for training and testing the classifier (make sure this file is present in the working directory).
 
